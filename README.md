@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: RecursionError caused by exceeding the maximum recursion depth in a recursive function. The `bug.py` file shows the flawed code, while `bugSolution.py` provides a corrected, iterative approach.
